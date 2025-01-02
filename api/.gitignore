@@ -11,6 +11,7 @@ npm-debug.log*
 # misc
 .DS_Store
 .DS_Store?
+.env
 .env.dev
 .env.development
 .env.production

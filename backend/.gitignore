@@ -17,6 +17,7 @@
 # misc
 .DS_Store
 .DS_Store?
+.env
 .env.dev
 .env.development
 .env.development.local
