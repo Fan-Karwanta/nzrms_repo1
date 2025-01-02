@@ -1,0 +1,28 @@
+div.property-filter {
+  background: #fff;
+  margin: 10px 0;
+}
+
+div.property-filter .location,
+div.property-filter .from,
+div.property-filter .to,
+div.property-filter .search,
+div.property-filter .chk-same-location {
+  padding: 5px;
+}
+
+div.property-filter .btn-search {
+  background: #232323;
+  color: #fff;
+  margin: 5px 0;
+}
+
+div.property-filter .chk-same-location label {
+  cursor: pointer;
+  padding: 2px;
+  vertical-align: top;
+}
+
+div.property-filter .chk-same-location input[type='checkbox'] {
+  cursor: pointer;
+}
